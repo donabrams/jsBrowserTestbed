@@ -1,0 +1,3 @@
+This is a testbed for js browser testing with q promises, mocha, sinon, jquery, and chai.
+
+Sinon doesn't play well with require.js yet. That will be my next project. Everything else plays jsut fine together :)
